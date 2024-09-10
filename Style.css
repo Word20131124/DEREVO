@@ -1,0 +1,61 @@
+.navbar {
+    width: 50px;
+    height: 50px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+h1{
+    text-align: center;
+}
+.tu{
+    background-color: red;
+    color: white;
+    width: 300px;
+    height: 250px;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.te{
+    background-color: red;
+    color: white;
+    width: 300px;
+    height: 250px;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-around;
+}
+.wraper{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 150px;
+    
+}
+
+
+
+
+
+
+ /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
